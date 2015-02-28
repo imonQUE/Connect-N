@@ -1,15 +1,6 @@
-# CONNECT N [Version 1.0]
-# Programmed by Tom Quincey, February 2015
+# CONNECT N
+# By Tom Quincey (2015) - tomquincey@gmail.com
 # Works with python 2.7.x
-
-"""
-TO DO: REMOVE REPETITIVE CODE.
-       Stats page at end?
-       Add more responses?
-       Best places to put el() and time.sleep()?
-       Bad use of 'sh', 'cc' and as the parameter used in the function awa variable name?
-       Make player vs computer mode?
-"""
 
 import time
 import random
